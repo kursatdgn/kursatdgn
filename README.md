@@ -13,4 +13,4 @@
 <h2>E-Mail</h2>
 
 <h2> <img style="height: 19px;" src="https://icons.iconarchive.com/icons/custom-icon-design/flatastic-6/512/Circle-icon.png" alt="linux"/> info@kursatdogan.com.tr</h2>
-<h2> <img style="height: 19px;" src="https://icons.iconarchive.com/icons/custom-icon-design/flatastic-6/512/Circle-icon.png" alt="linux"/> kursatxyzc@gmail.con </h2>
+<h2> <img style="height: 19px;" src="https://icons.iconarchive.com/icons/custom-icon-design/flatastic-6/512/Circle-icon.png" alt="linux"/> kursatxyzc@gmail.com </h2>
